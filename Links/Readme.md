@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/mlh-logo-color-d580e72af0779d58dca423a1f6646393209c874361afcbd12cf148ed72d27a1c.svg" width="200px">
+<img src="https://github.com/varghesejose2020/debian-India/blob/main/Links/Images/mdcoinlogoicononly.svg"
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/varghesejose2020/debian-India/blob/main/Links/Images/mdcoinlogoicononly.svg"
+<img src="https://github.com/varghesejose2020/debian-India/blob/main/Links/Images/mdcoinlogoicononly.svg" width="90px"
 </p>
 
 
